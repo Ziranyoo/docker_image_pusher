@@ -1,3 +1,2 @@
 alpine
-idootop/mi-gpt:
-steamcmd/steamcmd:
+idootop/mi-gpt:latest
