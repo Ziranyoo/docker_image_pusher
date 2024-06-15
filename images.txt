@@ -1,1 +1,1 @@
-steamcmd/steamcmd:latest
+docker
